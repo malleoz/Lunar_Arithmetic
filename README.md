@@ -13,5 +13,6 @@ The list of a repeated sum, 0 + 1 + 2 + ... + n, is: 0, 1, 2, 3, 4, 5, 6, 7, 8, 
 The list of factorials, 1 x 2 x ... x n, is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 10, 110, 1110, 11110, 1111110, 11111110, 111111110, ...
 
 For more information, read the paper for Dismal Arithmetic here: https://cs.uwaterloo.ca/journals/JIS/VOL14/Sloane/carry2.pdf
+Alternatively, you can watch this video that walks through the basis of how Lunar Arithmetic works: https://www.youtube.com/watch?v=cZkGeR9CWbk
 
 Within LunarArithmetic.py I have an addition function and a multiplication function that follow the rules of Lunar Arithmetic. You can use SolveExpressions.py to input an expression (But remember, only addition or multiplication exists!). With ListOfSquares.py you can generate a list of squares.
