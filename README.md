@@ -16,4 +16,4 @@ For more information, read the paper for Dismal Arithmetic here: https://cs.uwat
 
 Alternatively, you can watch this video that walks through the basis of how Lunar Arithmetic works: https://www.youtube.com/watch?v=cZkGeR9CWbk
 
-Within LunarArithmetic.py I have an addition function and a multiplication function that follow the rules of Lunar Arithmetic. You can use SolveExpressions.py to input an expression (But remember, only addition or multiplication exists!). With ListOfSquares.py you can generate a list of squares.
+I haven't seen any sort of program that made a calculator for this clearly superior form of arithmetic, so I decided to make it. Within LunarArithmetic.py I have an addition function and a multiplication function that follow the rules of Lunar Arithmetic. You can use SolveExpressions.py to input an expression (But remember, only addition or multiplication exists!). With ListOfSquares.py you can generate a list of squares.
