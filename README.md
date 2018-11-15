@@ -2,7 +2,7 @@
 
 Let's be honest, sometimes arithmetic is annoying. Having to carry numbers when you add? Oh, please. That's why I looked into a better form of arithmetic called Lunar Arithmetic!
 
-Formally called Dismal Arithmetic, which is a pun on decimal, Lunar Arithmetic is incorporates different rules for adding and multiplying numbers. Oh, and you're not allowed to subtract or divide numbers. When adding the digits of two numbers, the sum is the larger of the two numbers while when multiplying two numbers, the product is the smaller of the two. This fictionary arithmetic introduces some pretty bizarre number patterns"
+Formally called Dismal Arithmetic, which is a pun on decimal, Lunar Arithmetic is incorporates different rules for adding and multiplying numbers. Oh, and you're not allowed to subtract or divide numbers. When adding the digits of two numbers, the sum is the larger of the two numbers while when multiplying two numbers, the product is the smaller of the two. Multiplying large numbers can get a little confusing, but you essentially multiply one digit of a number against all the digits of the other number, repeat that for each remaining digit from the first number, and then use Lunar addition to add together all those results and obtain the product of the two numbers. This fictionary arithmetic introduces some pretty bizarre number patterns.
 
 The list of even numbers, 2 x n, is: 0, 1, 2, 2, 2, 2, 2, 2, 2, 2, 10, 11, 12, 12, 12, 12, 12, 12, 12, 12, 20, 21, 22, 22, ...
 
